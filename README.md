@@ -2,7 +2,7 @@
 
 **Architecte d'applications web Laravel · Marseille · 11 ans · Fondateur [@Desura](https://desura.fr) & [@Reparea](https://reparea.fr)**
 
-J'aide les fondateurs SaaS et les dirigeants de PME à transformer leur app web en levier de croissance — pas juste en logiciel qui "tient".
+J'aide les fondateurs SaaS et les dirigeants de PME à transformer leur app web en levier de croissance, pas juste en logiciel qui "tient".
 
 → Portfolio · [desura.fr](https://desura.fr)
 → Mon SaaS · [reparea.fr](https://reparea.fr) — automatisation des dossiers QualiRépar (–92 % de temps de saisie)
