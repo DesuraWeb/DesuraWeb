@@ -19,7 +19,7 @@ J'aide les fondateurs SaaS et les dirigeants de PME à transformer leur app web 
 
 #### Stack quotidien
 
-`PHP 8.3` · `Laravel 11` · `Symfony 6.4` · `Inertia` · `Vue` · `Tailwind` · `MySQL / MariaDB` · `Redis` · `Docker` · `WHM / CPanel` · `LiteSpeed`
+`PHP 8.5` · `Laravel 12` · `Symfony 6.4` · `Inertia` · `Vue` · `Tailwind` · `MySQL / MariaDB` · `Redis` · `Docker` · `WHM / CPanel` · `LiteSpeed`
 
 #### Certifications
 
